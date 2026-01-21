@@ -1,4 +1,4 @@
-# SKT-Juice-and-Shakes-Lite
+# SKT Juice and Shakes Lite
 
 Juice and Shakes Lite is a fresh and colorful WordPress theme designed for drink, food, and farm-based websites. It works perfectly as a Free Smoothie WordPress Theme for smoothie shops, juice counters, and small beverage businesses that need a clean and easy online presence. The layout feels light, colorful, and easy to read.
 
